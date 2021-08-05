@@ -3,3 +3,4 @@
 	path = client
 [submodule "server"]
 	url = https://github.com/CappuccinoIRC/server.git
+	path = server
