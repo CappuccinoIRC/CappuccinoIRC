@@ -1,4 +1,5 @@
 [submodule "client"]
 	url = https://github.com/CappuccinoIRC/client.git
+	path = client
 [submodule "server"]
 	url = https://github.com/CappuccinoIRC/server.git
